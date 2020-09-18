@@ -1,5 +1,5 @@
 ---
-title: Devlog
+title: The idea
 date: "2020-09-18T20:35:37.121Z"
 ---
 
