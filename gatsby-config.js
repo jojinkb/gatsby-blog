@@ -13,6 +13,13 @@ module.exports = {
   },
   plugins: [
     {
+        resolve: `gatsby-plugin-gtag`,
+        options: {
+          // replace `UA-XXXXXXXXX-X` with your own Google Analytics Tracking ID
+          trackingId: `UA-180341680-1`,
+        },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/content/blog`,
