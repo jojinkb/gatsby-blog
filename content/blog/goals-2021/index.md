@@ -7,7 +7,7 @@ Better late than never. My goals for what is left of 2021. I think this is an am
 
 ## Read
 
-This has the added benefit to contributing towards [my annual goodreads reading challenge](https://www.goodreads.com/user_challenges/28524825 "Jojin's 2021 goodreads reading challenge") (4/20)
+This has the added benefit of contributing towards [my annual goodreads reading challenge](https://www.goodreads.com/user_challenges/28524825 "Jojin's 2021 goodreads reading challenge") (4/20)
 
 - [ ] The Linux Command Line: Shotts, William E. Jr..
 - [ ] Linux Command Line and Shell Scripting Bible: Blum, Richard.
