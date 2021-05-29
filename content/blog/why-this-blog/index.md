@@ -26,11 +26,11 @@ The [blog post](https://www.freecodecamp.org/news/how-i-got-a-second-degree-and-
 
 Original quote is from this [blog post](https://sive.rs/kimo "The standard pace is for chumps") by Derek Sivers
 
-###Step4: No Zero days
+###Step 4: No Zero days
 
 A viral reddit [thread](https://www.reddit.com/r/getdisciplined/comments/1q96b5/i_just_dont_care_about_myself/ "No zero days") spawns a movement with more than 100K subsribers. The idea, as all good ideas tend to be is simple. No more zero days. "A zero day is when you don't do a single fucking thing towards whatever dream or goal or want or whatever that you got going on. No more zeros"
 
-This means that I will do atleast one minute of whatever activity that I have deemed appropriate to bring me closer to my goals every day. No more zero days.
+This means that I will spend atleast one minute everyday on activities deemed appropriate to bring me closer to my goals. No more zero days.
 
 
 
