@@ -63,15 +63,15 @@ const Bio = () => {
           }}
         />
       )}
-      {author?.name && (
+      {
         <p>
-          Written by <strong>{author.name}</strong> {author?.summary || null}
-          {` `}
+          I'm a cloud and DevOps engineer at <a href='https://lokyata.ai'>lokyata.ai</a><br></br>
+
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
             You can follow me on Twitter
           </a>
         </p>
-      )}
+      }
     </div>
   )
 }
