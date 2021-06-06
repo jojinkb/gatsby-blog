@@ -19,7 +19,8 @@ This has the added benefit of contributing towards [my annual goodreads reading 
 
 ## Learn
 
-- [ ] Complete Jenkins certified Engineer course on Linux Academy.
+- [ ] Complete Mastering the well architected framework course on ACloudGuru.
+- [ ] Complete Jenkins certified Engineer course on ACloudGuru.
 - [ ] Learning Path: Bash Scripting - Sander van Vugt(O'Reilly)
 - [ ] ACloudGuru learning path - AWS Architect.
 - [ ] ACloudGuru learning path - AWS Data.
