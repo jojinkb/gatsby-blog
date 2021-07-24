@@ -9,19 +9,25 @@ Better late than never. My goals for what is left of 2021. I think this is an am
 
 This has the added benefit of contributing towards [my annual goodreads reading challenge](https://www.goodreads.com/user_challenges/28524825 "Jojin's 2021 goodreads reading challenge") (4/20)
 
+- [ ] Infrastructure as Code, 2nd edition, Kief Morris.
 - [ ] The Linux Command Line: Shotts, William E. Jr..
 - [ ] Linux Command Line and Shell Scripting Bible: Blum, Richard.
+- [ ] Python 3 Object Oriented Programming: Phillips, Dusty.
 - [X] Continuous Delivery with Docker and Jenkins: Rafal Leszko.
 - [ ] The definitive Guide to AWS Infrastructure Automation: Craft Infrastucture-as-Code Solutions.
-- [ ] Mastering AWS CloudFormation: Plan, develop, and deploy your cloud infrastructure effectively using AWS CloudFormation: Karen Tovmasyan.
+- [ ] Terraform: Up and Running.
+- [ ] Terraform Cookbook.
+- [ ] Ansible: Up and Running, 3rd edition.
 - [ ] The Practice of Cloud System Administration: Devops and Sre Practices for Web Services: Limoncelli, Thomas A.
-- [ ] Python 3 Object Oriented Programming: Phillips, Dusty.
 
 ## Learn
 
 - [ ] Complete Mastering the well architected framework course on ACloudGuru.
 - [ ] Complete Jenkins certified Engineer course on ACloudGuru.
 - [ ] Learning Path: Bash Scripting - Sander van Vugt(O'Reilly)
+- [ ] ACloudGuru Hashicorp certified Terraform Associate Course
+- [ ] ACloudGuru Kubernetes Quick Start
+- [ ] ACloudGuru Docker Deep Dive
 - [ ] ACloudGuru learning path - AWS Architect.
 - [ ] ACloudGuru learning path - AWS Data.
 - [ ] ACloudGuru learning path - AWS Developer.
