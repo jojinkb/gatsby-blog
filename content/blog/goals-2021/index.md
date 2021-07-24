@@ -22,12 +22,17 @@ This has the added benefit of contributing towards [my annual goodreads reading 
 
 ## Learn
 
-- [ ] Complete Mastering the well architected framework course on ACloudGuru.
-- [ ] Complete Jenkins certified Engineer course on ACloudGuru.
+- [ ] ACloudGuru Mastering the well architected framework course.
+- [ ] ACloudGuru Jenkins certified Engineer course on ACloudGuru.
 - [ ] Learning Path: Bash Scripting - Sander van Vugt(O'Reilly)
-- [ ] ACloudGuru Hashicorp certified Terraform Associate Course
-- [ ] ACloudGuru Kubernetes Quick Start
 - [ ] ACloudGuru Docker Deep Dive
+- [ ] ACloudGuru DevOps Monitoring Deep Dive
+- [ ] ACloudGuru Hashicorp certified Terraform Associate Course
+- [X] ACloudGuru Kubernetes Quick Start
+- [ ] ACloudGuru Kubernetes Essentials
+- [ ] ACloudGuru EKS Basics
+- [ ] ACloudGuru Kubernetes Deep Dive
+- [ ] ACloudGuru Ansible Quick Start
 - [ ] ACloudGuru learning path - AWS Architect.
 - [ ] ACloudGuru learning path - AWS Data.
 - [ ] ACloudGuru learning path - AWS Developer.
