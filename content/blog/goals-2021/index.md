@@ -1,51 +1,78 @@
 ---
-title: Professional goals 2021
-date: "2021-05-29T17:06:44.730899"
+title: Looking forward to 2023
+date: "2023-01-07T11:23:44.730899"
 ---
 
-Better late than never. My goals for what is left of 2021. I think this is an ambitious list for what is proving to be a very busy year. Defining my goals is going to help me manage my time and expectations.
+My goals for 2023.
 
 ## Read
 
-This has the added benefit of contributing towards [my annual goodreads reading challenge](https://www.goodreads.com/user_challenges/28524825 "Jojin's 2021 goodreads reading challenge") (4/20)
+This has the added benefit of contributing towards [my annual goodreads reading challenge](https://www.goodreads.com/user_challenges/40850031 "Jojin's 2023 goodreads reading challenge") (1/25)
 
-- [ ] Infrastructure as Code, 2nd edition, Kief Morris.
-- [ ] The Linux Command Line: Shotts, William E. Jr..
-- [ ] Linux Command Line and Shell Scripting Bible: Blum, Richard.
-- [ ] Python 3 Object Oriented Programming: Phillips, Dusty.
-- [X] Continuous Delivery with Docker and Jenkins: Rafal Leszko.
-- [ ] The definitive Guide to AWS Infrastructure Automation: Craft Infrastucture-as-Code Solutions.
-- [ ] Terraform: Up and Running.
-- [ ] Terraform Cookbook.
-- [ ] Ansible: Up and Running, 3rd edition.
+I've given myself some leeway on my reading list. I don't expect I will like some of the books in the list and I wanted the option of walking away from the ones that don't interest me after a few chapters.
+
+#### Infrastructure
 - [ ] The Practice of Cloud System Administration: Devops and Sre Practices for Web Services: Limoncelli, Thomas A.
+- [ ] Infrastructure as Code, 2nd edition, Kief Morris.
+- [ ] Cloud Native Devops with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud.
+- [ ] Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes.
+- [ ] Kubernetes in Action.
+	
+#### Leadership
+- [ ] The Unicorn Project, Gene Kim.
+- [ ] The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations.
+- [ ] Becoming a Technical Leader: An Organic Problem-Solving Approach.
+- [ ] The Staff Engineer's Path: A Guide For Individual Contributors Navigating Growth and Change.
 
-## Learn
 
-- [ ] ACloudGuru Mastering the well architected framework course.
-- [ ] ACloudGuru Jenkins certified Engineer course on ACloudGuru.
-- [ ] Learning Path: Bash Scripting - Sander van Vugt(O'Reilly)
-- [ ] ACloudGuru Docker Deep Dive
-- [ ] ACloudGuru DevOps Monitoring Deep Dive
-- [ ] ACloudGuru Hashicorp certified Terraform Associate Course
-- [X] ACloudGuru Kubernetes Quick Start
-- [ ] ACloudGuru Kubernetes Essentials
-- [ ] ACloudGuru EKS Basics
-- [ ] ACloudGuru Kubernetes Deep Dive
-- [ ] ACloudGuru Ansible Quick Start
-- [ ] ACloudGuru learning path - AWS Architect.
-- [ ] ACloudGuru learning path - AWS Data.
-- [ ] ACloudGuru learning path - AWS Developer.
-- [ ] ACloudGuru learning path - AWS DevOps.
-- [ ] ACloudGuru learning path - AWS Security.
+#### Systems
+- [ ] Devops: A Software Architect's Perspective.
+- [ ] Accelerate: Building and Scaling High Performing Technology Organizations, Nicole Forsgren.
+- [ ] Effective Devops: Building a Culture of Collaboration, Affinity, and Tooling at Scale, Jennifer Davis.
+- [ ] Continuous Delivery Pipelines - How to Build Better Software Faster.
+- [ ] Continuous Delivery: Reliable Software Releases Through Build, Test, and Deployment Automation.
+- [ ] System Design Interview – An Insider's Guide.
+- [ ] System Design Interview – An Insider's Guide: Volume 2.
 
-## Certification
 
-- [ ] AWS networking specialty certification.
+#### Tooling
+- [ ] The Linux Command Line: Shotts, William E. Jr..
+- [ ] Linux Bible, Christopher Negus.
+- [ ] Terraform: Up and Running. - Read the new edition.
+- [ ] Ansible: Up and Running, 3rd edition.
+
+#### Programming
+- [ ] Python 3 Object Oriented Programming: Phillips, Dusty. - Brush up on Python.
+- [ ] Kotlin in action - Pick up a typed language for a change.
+
+
+#### Investment
+- [ ] The Psychology of Money.
+- [ ] The Bogleheads' Guide to Investing.
+
+
+#### Process
+- [ ] Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones.
+
+
+#### Non-fiction
+- [ ] The Consolations of Philosophy.
+- [ ] Hatred in the Belly: Politics Behind the Appropriation of Dr. Ambedkar's Writings.
+- [ ] Annihilation of Caste.
+- [ ] Thinking, Fast and Slow.
+
+
+
+
+#### Certification
+
+- [ ] Certified kubernetes application developer.
+- [ ] Certified kubernetes administrator.
+- [ ] Certified Kubernetes Security Specialist.
 - [ ] AWS security specialty certification.
+- [ ] AWS networking specialty certification.
+- [ ] AWS database specialty certification.
+- [ ] Hashicopr certified terraform associate.
 
-## Do
 
-- [ ] Build kickass build and infrastructure pipelines for Lokyata - should spark joy.
-- [ ] Build cloudwatch monitoring dashboards and alarms that automate toil.
-- [ ] Build and blog about atleast 3 cloud projects. (acloudguru monthly challenges seems like a good option atm)
+Note: This blog post initially started off as my goals for 2021 😅 but a lot of (good) things have happened to me in the last two years. Unfortunately, documenting and planning my learning took a backseat during this time. I'm hoping to find better balance in 2023.

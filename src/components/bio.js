@@ -65,7 +65,7 @@ const Bio = () => {
       )}
       {
         <p>
-          I'm a cloud and DevOps engineer at <a href='https://lokyata.ai'>lokyata.ai</a><br></br>
+          Tech lead at <a href='https://porter.in'>porter.in</a><br></br>
 
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
             You can follow me on Twitter
