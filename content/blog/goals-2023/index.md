@@ -3,7 +3,7 @@ title: Learning goals 2023
 date: "2023-01-07T11:23:44.730899"
 ---
 
-My goals for 2023.
+My goals for 2023. This document will be updated regularly and is meant to be a snapshot of the current progress made on the goals stated below. The intention of writing this down in a public blog is to increase personal accountability.
 
 ## Read
 
@@ -64,15 +64,19 @@ The highest number of books I was able to read track reading in a year is 20, so
 - [ ] Annihilation of Caste.
 - [ ] Thinking, Fast and Slow.
 
-#### Certification
+## Certification
 
 - [ ] Certified kubernetes application developer.
 - [ ] Certified kubernetes administrator.
-- [ ] Certified Kubernetes Security Specialist.
+- [ ] Certified Kubernetes security specialist.
 - [ ] AWS security specialty certification.
 - [ ] AWS networking specialty certification.
 - [ ] AWS database specialty certification.
-- [ ] Hashicopr certified terraform associate.
+- [ ] Hashicorp certified terraform associate.
+- [ ] Hashicorp certified vault associate.
+
+## Write
+I'd like to get in the habit of writing regularly. I'll start by keeping notes about the books I read or projects that I'm working on.
 
 
 Note: This blog post initially started off as my goals for 2021 😅 but a lot of (good) things have happened to me in the last two years. Unfortunately, documenting and planning my learning took a backseat during this time. I'm hoping to find better balance in 2023.
