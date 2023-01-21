@@ -9,7 +9,7 @@ My goals for 2023. This document will be updated regularly and is meant to be a 
 
 This has the added benefit of contributing towards [my annual goodreads reading challenge](https://www.goodreads.com/user_challenges/40850031 "Jojin's 2023 goodreads reading challenge") (1/25)
 
-The highest number of books I was able to read track reading in a year is 20, so this is a pretty ambitious goal. Most of the books below have been on my to-read list before, and I might switch between categories or switch out titles to keep the keep the grey cells guessing. I've given myself some leeway on my reading list. I'll be walking away from the ones that don't interest me after a few chapters. As long as I meet my target of 25 books, I'll be more than happy.
+The highest number of books I was able to track reading in a year is 20, so this is a pretty ambitious goal. Most of the books below have been on my to-read list before, and I might switch between categories or switch out titles to keep the keep the grey cells guessing. I've given myself some leeway on my reading list. I'll be walking away from the ones that don't interest me after a few chapters. As long as I meet my target of 25 books, the goal is met.
 
 #### Infrastructure
 
