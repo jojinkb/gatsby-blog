@@ -9,7 +9,7 @@ My goals for 2023. This document will be updated regularly and is meant to be a 
 
 This has the added benefit of contributing towards [my annual goodreads reading challenge](https://www.goodreads.com/user_challenges/40850031 "Jojin's 2023 goodreads reading challenge") (1/25)
 
-The highest number of books I was able to track reading in a year is 20, so this is a pretty ambitious goal. Most of the books below have been on my to-read list before, and I might switch between categories or switch out titles to keep the keep the grey cells guessing. I've given myself some leeway on my reading list. I'll be walking away from the ones that don't interest me after a few chapters. As long as I meet my target of 25 books, the goal is met.
+The highest number of books I was able to track reading in a year is 20, so this is a pretty ambitious goal. Most of the books below have been on my to-read list for a long time, and I might switch between categories or switch out titles to keep the keep the grey cells guessing. I've given myself some leeway on my reading list by having the option of walking away from the ones that don't interest me after a few chapters.
 
 #### Infrastructure
 
@@ -66,14 +66,14 @@ The highest number of books I was able to track reading in a year is 20, so this
 
 ## Certification
 
-- [ ] Certified kubernetes application developer.
-- [ ] Certified kubernetes administrator.
-- [ ] Certified Kubernetes security specialist.
-- [ ] AWS security specialty certification.
-- [ ] AWS networking specialty certification.
-- [ ] AWS database specialty certification.
-- [ ] Hashicorp certified terraform associate.
-- [ ] Hashicorp certified vault associate.
+- [ ] Certified kubernetes application developer. Q1
+- [ ] Certified kubernetes administrator. Q2
+- [ ] Certified Kubernetes security specialist. Strech Goal - Q3/4
+- [ ] AWS security specialty certification. Q2
+- [ ] AWS database specialty certification. Q3
+- [ ] AWS networking specialty certification. Strech Goal - Q3/4
+- [ ] Hashicorp certified terraform associate. Q2
+- [ ] Hashicorp certified vault associate. Strech Goal - Q3/4
 
 ## Write
 I'd like to get in the habit of writing regularly. I'll start by keeping notes about the books I read or projects that I'm working on.
