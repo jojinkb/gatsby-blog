@@ -13,6 +13,7 @@ The highest number of books I was able to track reading in a year is 20, so this
 
 #### Infrastructure
 
+- [ ] Certified Kubernetes Application Developer(CKAD) Study Guide: Benjamin Muschko.
 - [ ] The Practice of Cloud System Administration: Devops and Sre Practices for Web Services: Limoncelli, Thomas A.
 - [ ] Infrastructure as Code, 2nd edition, Kief Morris.
 - [ ] Cloud Native Devops with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud.
