@@ -20,7 +20,7 @@ The highest number of books I was able to track reading in a year is 20, so this
 - [ ] Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes.
 - [ ] Kubernetes in Action.
 
-#### Leadership (0/4)
+#### Leadership (1/4)
 
 - [X] The Unicorn Project, Gene Kim.
 - [ ] The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations.
@@ -49,7 +49,7 @@ The highest number of books I was able to track reading in a year is 20, so this
 - [ ] Python 3 Object Oriented Programming: Phillips, Dusty. - Brush up on Python.
 - [ ] Kotlin in action - Pick up a typed language for a change.
 
-#### Investment (0/2)
+#### Investment (1/2)
 
 - [X] The Psychology of Money.
 - [ ] The Bogleheads' Guide to Investing.
