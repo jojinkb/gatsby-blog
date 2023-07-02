@@ -11,7 +11,7 @@ This has the added benefit of contributing towards [my annual goodreads reading 
 
 The highest number of books I was able to track reading in a year is 20, so this is a pretty ambitious goal. Most of the books below have been on my to-read list for a long time, and I might switch between categories or switch out titles to keep the keep the grey cells guessing. I've given myself some leeway on my reading list by having the option of walking away from the ones that don't interest me after a few chapters.
 
-#### Infrastructure
+#### Infrastructure (1/6)
 
 - [X] Certified Kubernetes Application Developer(CKAD) Study Guide: Benjamin Muschko.
 - [ ] The Practice of Cloud System Administration: Devops and Sre Practices for Web Services: Limoncelli, Thomas A.
@@ -20,14 +20,14 @@ The highest number of books I was able to track reading in a year is 20, so this
 - [ ] Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes.
 - [ ] Kubernetes in Action.
 
-#### Leadership
+#### Leadership (0/4)
 
 - [X] The Unicorn Project, Gene Kim.
 - [ ] The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations.
 - [ ] Becoming a Technical Leader: An Organic Problem-Solving Approach.
 - [ ] The Staff Engineer's Path: A Guide For Individual Contributors Navigating Growth and Change.
 
-#### Systems
+#### Systems (0/7)
 
 - [ ] Devops: A Software Architect's Perspective.
 - [ ] Accelerate: Building and Scaling High Performing Technology Organizations, Nicole Forsgren.
@@ -37,35 +37,35 @@ The highest number of books I was able to track reading in a year is 20, so this
 - [ ] System Design Interview – An Insider's Guide.
 - [ ] System Design Interview – An Insider's Guide: Volume 2.
 
-#### Tooling
+#### Tooling (0/4)
 
 - [ ] The Linux Command Line: Shotts, William E. Jr..
 - [ ] Linux Bible, Christopher Negus.
 - [ ] Terraform: Up and Running. - Read the new edition.
 - [ ] Ansible: Up and Running, 3rd edition.
 
-#### Programming
+#### Programming (0/2)
 
 - [ ] Python 3 Object Oriented Programming: Phillips, Dusty. - Brush up on Python.
 - [ ] Kotlin in action - Pick up a typed language for a change.
 
-#### Investment
+#### Investment (0/2)
 
 - [X] The Psychology of Money.
 - [ ] The Bogleheads' Guide to Investing.
 
-#### Process
+#### Process (0/1)
 
 - [ ] Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones.
 
-#### Non-fiction
+#### Non-fiction (0/4)
 
 - [ ] The Consolations of Philosophy.
 - [ ] Hatred in the Belly: Politics Behind the Appropriation of Dr. Ambedkar's Writings.
 - [ ] Annihilation of Caste.
 - [ ] Thinking, Fast and Slow.
 
-## Certification
+## Certification (1/8)
 
 - [ ] Certified kubernetes application developer. Q1
 - [ ] Certified kubernetes administrator. Q2
@@ -73,7 +73,7 @@ The highest number of books I was able to track reading in a year is 20, so this
 - [ ] AWS security specialty certification. Q2
 - [ ] AWS database specialty certification. Q3
 - [ ] AWS networking specialty certification. Strech Goal - Q3/4
-- [ ] Hashicorp certified terraform associate. Q2
+- [X] Hashicorp certified terraform associate. Q2
 - [ ] Hashicorp certified vault associate. Strech Goal - Q3/4
 
 ## Write
