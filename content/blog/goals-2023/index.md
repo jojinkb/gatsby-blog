@@ -7,15 +7,15 @@ My goals for 2023. This document will be updated regularly and is meant to be a 
 
 ## Read
 
-This has the added benefit of contributing towards [my annual goodreads reading challenge](https://www.goodreads.com/user_challenges/40850031 "Jojin's 2023 goodreads reading challenge") (6/25)
+This has the added benefit of contributing towards [my annual goodreads reading challenge](https://www.goodreads.com/user_challenges/40850031 "Jojin's 2023 goodreads reading challenge") (7/25)
 
 The highest number of books I was able to track reading in a year is 20, so this is a pretty ambitious goal. Most of the books below have been on my to-read list for a long time, and I might switch between categories or switch out titles to keep the keep the grey cells guessing. I've given myself some leeway on my reading list by having the option of walking away from the ones that don't interest me after a few chapters.
 
-#### Infrastructure (1/6)
+#### Infrastructure (2/6)
 
 - [X] Certified Kubernetes Application Developer(CKAD) Study Guide: Benjamin Muschko.
 - [ ] The Practice of Cloud System Administration: Devops and Sre Practices for Web Services: Limoncelli, Thomas A.
-- [ ] Infrastructure as Code, 2nd edition, Kief Morris.
+- [X] Infrastructure as Code, 2nd edition, Kief Morris.
 - [ ] Cloud Native Devops with Kubernetes: Building, Deploying, and Scaling Modern Applications in the Cloud.
 - [ ] Kubernetes Best Practices: Blueprints for Building Successful Applications on Kubernetes.
 - [ ] Kubernetes in Action.
