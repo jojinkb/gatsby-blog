@@ -65,7 +65,7 @@ const Bio = () => {
       )}
       {
         <p>
-          Tech lead at <a href='https://porter.in'>porter.in</a><br></br>
+          Senior SRE at <a href='https://nexthink.com'>Nexthink</a><br></br>
 
           <a href={`https://twitter.com/${social?.twitter || ``}`}>
             You can follow me on Twitter
