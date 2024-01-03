@@ -1,5 +1,5 @@
 ---
-title: Learning goals 2023
+title: Learning goals
 date: "2023-01-07T11:23:44.730899"
 ---
 
