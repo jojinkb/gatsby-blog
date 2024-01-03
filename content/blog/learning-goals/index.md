@@ -3,7 +3,7 @@ title: Learning goals
 date: "2023-01-07T11:23:44.730899"
 ---
 
-My goals for 2023. This document will be updated regularly and is meant to be a snapshot of the current progress made on the goals stated below. The intention of writing this down in a public blog is to increase personal accountability.
+These are my learning goals. This document will be updated regularly and is meant to be a snapshot of the current progress made on the goals stated below. The intention of writing this down in a public blog is to increase personal accountability.
 
 ## Read
 
