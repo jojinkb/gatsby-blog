@@ -1,13 +1,13 @@
 ---
 title: Learning goals
-date: "2023-01-07T11:23:44.730899"
+date: "2024-01-01T11:23:44.730899"
 ---
 
 These are my learning goals. This document will be updated regularly and is meant to be a snapshot of the current progress made on the goals stated below. The intention of writing this down in a public blog is to increase personal accountability.
 
 ## Read
 
-This has the added benefit of contributing towards [my annual goodreads reading challenge](https://www.goodreads.com/user_challenges/40850031 "Jojin's 2023 goodreads reading challenge") (15/25)
+This has the added benefit of contributing towards [my annual goodreads reading challenge](https://www.goodreads.com/user_challenges/49467895 "Jojin's 2024 goodreads reading challenge") (1/20)
 
 The highest number of books I was able to track reading in a year is 20, so this is a pretty ambitious goal. Most of the books below have been on my to-read list for a long time, and I might switch between categories or switch out titles to keep the keep the grey cells guessing. I've given myself some leeway on my reading list by having the option of walking away from the ones that don't interest me after a few chapters.
 
@@ -41,22 +41,24 @@ The highest number of books I was able to track reading in a year is 20, so this
 
 - [ ] The Linux Command Line: Shotts, William E. Jr..
 - [ ] Linux Bible, Christopher Negus.
-- [ ] Terraform: Up and Running. - Read the new edition.
+- [ ] Terraform: Up and Running. - 3rd edition.
 - [ ] Ansible: Up and Running, 3rd edition.
 
-#### Programming (0/2)
+#### Programming (0/3)
 
 - [ ] Python 3 Object Oriented Programming: Phillips, Dusty. - Brush up on Python.
-- [ ] Kotlin in action - Pick up a typed language for a change.
+- [ ] Fluent Python - More Python.
+- [ ] Head First Java - Pick up a typed language for a change.
 
 #### Investment (1/2)
 
 - [X] The Psychology of Money.
 - [ ] The Bogleheads' Guide to Investing.
 
-#### Process (0/1)
+#### Process (1/2)
 
 - [ ] Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones.
+- [X] So Good They Can't Ignore You.
 
 #### Non-fiction (0/4)
 
