@@ -9,7 +9,7 @@ These are my learning goals. This document will be updated regularly and is mean
 
 This has the added benefit of contributing towards [my annual goodreads reading challenge](https://www.goodreads.com/user_challenges/49467895 "Jojin's 2024 goodreads reading challenge") (1/20)
 
-The highest number of books I was able to track reading in a year is 20, so this is a pretty ambitious goal. Most of the books below have been on my to-read list for a long time, and I might switch between categories or switch out titles to keep the keep the grey cells guessing. I've given myself some leeway on my reading list by having the option of walking away from the ones that don't interest me after a few chapters.
+The highest number of books I was able to track reading in a year is 20, I'm hoping to equal or surpass that number this year. Most of the books below have been on my to-read list for some time now. I might switch between categories or switch out titles to keep the keep the grey cells guessing. I've given myself some leeway on my reading list by having the option of walking away from the ones that don't interest me after a few chapters.
 
 #### Infrastructure (2/6)
 
@@ -52,20 +52,20 @@ The highest number of books I was able to track reading in a year is 20, so this
 
 #### Investment (1/2)
 
-- [X] The Psychology of Money.
+- [X] The Psychology of Money. (This was short and sweet. Easy recommendation)
 - [ ] The Bogleheads' Guide to Investing.
 
 #### Process (1/2)
 
 - [ ] Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones.
-- [X] So Good They Can't Ignore You.
+- [X] So Good They Can't Ignore You. (I've read this twice now, succint actionable advice for knowledge workers.)
 
 #### Non-fiction (0/4)
 
-- [ ] The Consolations of Philosophy.
+- [ ] The Consolations of Philosophy. (I need to get back to this book, only if I can find it 😂)
 - [ ] Hatred in the Belly: Politics Behind the Appropriation of Dr. Ambedkar's Writings.
 - [ ] Annihilation of Caste.
-- [ ] Thinking, Fast and Slow.
+- [ ] Thinking, Fast and Slow. (Have not been able to finish this one, inspite of it being an engaging read.)
 
 ## Certification (1/8)
 
@@ -82,4 +82,4 @@ The highest number of books I was able to track reading in a year is 20, so this
 I'd like to get in the habit of writing regularly. I'll start by keeping notes about the books I read or projects that I'm working on.
 
 
-Note: This blog post initially started off as my goals for 2021 😅 but a lot of (good) things have happened to me in the last two years. Unfortunately, documenting and planning my learning took a backseat during this time. I'm hoping to find better balance in 2023.
+Note: This blog post initially started off as my goals for 2021 😅 but a lot of (good) things have happened to me in the last two years. Unfortunately, documenting and planning my learning took a backseat during this time. I've decided not to timebox this and track annual sub-goals separately since.
