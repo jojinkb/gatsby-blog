@@ -7,7 +7,7 @@ These are my learning goals. This document will be updated regularly and is mean
 
 ## Read
 
-This has the added benefit of contributing towards [my annual goodreads reading challenge](https://www.goodreads.com/user_challenges/49467895 "Jojin's 2024 goodreads reading challenge") (1/20)
+This has the added benefit of contributing towards [my annual goodreads reading challenge](https://www.goodreads.com/user_challenges/49467895 "Jojin's 2024 goodreads reading challenge") (3/20)
 
 The highest number of books I was able to track reading in a year is 20, I'm hoping to equal or surpass that number this year. Most of the books below have been on my to-read list for some time now. I might switch between categories or switch out titles to keep the keep the grey cells guessing. I've given myself some leeway on my reading list by having the option of walking away from the ones that don't interest me after a few chapters.
 
