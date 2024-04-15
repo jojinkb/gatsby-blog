@@ -69,7 +69,7 @@ The highest number of books I was able to track reading in a year is 20, I'm hop
 
 ## Certification (1/8)
 
-- [ ] Certified kubernetes application developer. Q1
+- [X] Certified kubernetes application developer. Q1
 - [ ] Certified kubernetes administrator. Q2
 - [ ] Certified Kubernetes security specialist. Strech Goal - Q3/4
 - [ ] AWS security specialty certification. Q2
