@@ -67,7 +67,7 @@ The highest number of books I was able to track reading in a year is 20, I'm hop
 - [ ] Annihilation of Caste.
 - [ ] Thinking, Fast and Slow. (Have not been able to finish this one, inspite of it being an engaging read.)
 
-## Certification (1/8)
+## Certification (2/8)
 
 - [X] Certified kubernetes application developer. Q1
 - [ ] Certified kubernetes administrator. Q2
