@@ -67,16 +67,15 @@ The highest number of books I was able to track reading in a year is 20, I'm hop
 - [ ] Annihilation of Caste.
 - [ ] Thinking, Fast and Slow. (Have not been able to finish this one, inspite of it being an engaging read.)
 
-## Certification (2/8)
+## Certification (4/7)
 
-- [X] Certified kubernetes application developer. Q1
-- [ ] Certified kubernetes administrator. Q2
-- [ ] Certified Kubernetes security specialist. Strech Goal - Q3/4
-- [ ] AWS security specialty certification. Q2
-- [ ] AWS database specialty certification. Q3
-- [ ] AWS networking specialty certification. Strech Goal - Q3/4
-- [X] Hashicorp certified terraform associate. Q2
-- [ ] Hashicorp certified vault associate. Strech Goal - Q3/4
+- [X] Certified kubernetes application developer.
+- [X] Certified kubernetes administrator.
+- [ ] Certified Kubernetes security specialist.
+- [ ] Kubernetes and Cloud Native Associate.
+- [ ] Kubernetes and Cloud Security Associate.
+- [X] Prometheus Certified Associate.
+- [X] Hashicorp certified terraform associate.
 
 ## Write
 I'd like to get in the habit of writing regularly. I'll start by keeping notes about the books I read or projects that I'm working on.
