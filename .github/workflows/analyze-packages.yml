@@ -1,0 +1,43 @@
+name: Analyze and Suggest Package Upgrades
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  analyze-packages:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run npm outdated
+        id: outdated
+        run: npm outdated --json > outdated.json || true
+
+      - name: Suggest package upgrades
+        run: |
+          if [ -s outdated.json ]; then
+            echo "## Outdated Packages Found:" >> $GITHUB_STEP_SUMMARY
+            jq -r 'to_entries[] | "- **\(.key)**: current=\(.value.current), latest=\(.value.latest), wanted=\(.value.wanted)"' outdated.json >> $GITHUB_STEP_SUMMARY
+            echo "\n### Upgrade Suggestions:" >> $GITHUB_STEP_SUMMARY
+            jq -r 'to_entries[] | select(.value.current != .value.latest) | "- Run: npm install \(.key)@latest"' outdated.json >> $GITHUB_STEP_SUMMARY
+          else
+            echo "All packages are up to date." >> $GITHUB_STEP_SUMMARY
+          fi
+        shell: bash
+        env:
+          CI: true
