@@ -71,9 +71,9 @@ The highest number of books I was able to track reading in a year is 20, I'm hop
 
 - [X] Certified kubernetes application developer.
 - [X] Certified kubernetes administrator.
-- [ ] Certified Kubernetes security specialist.
-- [ ] Kubernetes and Cloud Native Associate.
-- [ ] Kubernetes and Cloud Security Associate.
+- [X] Certified Kubernetes security specialist.
+- [X] Kubernetes and Cloud Native Associate.
+- [X] Kubernetes and Cloud Security Associate.
 - [X] Prometheus Certified Associate.
 - [X] Hashicorp certified terraform associate.
 
