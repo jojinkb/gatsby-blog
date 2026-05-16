@@ -78,7 +78,4 @@ The highest number of books I was able to track reading in a year is 20, I'm hop
 - [X] Hashicorp certified terraform associate.
 
 ## Write
-I'd like to get in the habit of writing regularly. I'll start by keeping notes about the books I read or projects that I'm working on.
-
-
-Note: This blog post initially started off as my goals for 2021 😅 but a lot of (good) things have happened to me in the last two years. Unfortunately, documenting and planning my learning took a backseat during this time. I've decided not to timebox this and track annual sub-goals separately since.
+I'd like to get in the habit of writing regularly. I'll start by keeping notes about the books I read or projects that I'm working on. I've settled on obsidian for it's simplicity and it seems to be working well
